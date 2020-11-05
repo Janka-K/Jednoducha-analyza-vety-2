@@ -1,8 +1,7 @@
-# -*- coding: utf-8 -*-
 
 from random import randrange
 
-seznam_vet =["Pohádky a psi mají jedno společné, jsou to věrní přátelé lidí a dělají jim radost.", "Oblíbená autorka Zuzana Pospíšilová proto pro všechny milovníky psů a pohádkového čtení napsala dvacet původních pohádek o pejscích ras ušlechtilých i zcela neznámých.", "V téhle knížce vyvádějí psi neuvěřitelné kousky.", "Fenka Sisi zpívá, z pejska Fleka se stane malíř a kokršpaněl Bady se chce učit španělsky.","Nechte se poučit psí moudrostí, pobavit psí radostí a užijte si veselé ilustrace Michala Sušiny.", "Haf!"]
+seznam_vet =["Pohádky a psi mají jedno společné, jsou to věrní přátelé lidí a dělají jim radost.","Oblíbená autorka Zuzana Pospíšilová proto pro všechny milovníky psů a pohádkového čtení napsala dvacet původních pohádek o pejscích ras ušlechtilých i zcela neznámých.","V téhle knížce vyvádějí psi neuvěřitelné kousky.","Fenka Sisi zpívá, z pejska Fleka se stane malíř a kokršpaněl Bady se chce učit španělsky.","Nechte se poučit psí moudrostí, pobavit psí radostí a užijte si veselé ilustrace Michala Sušiny.","Haf!"]
 
 rozpeti = seznam_vet[randrange(0,len(seznam_vet))]
 
